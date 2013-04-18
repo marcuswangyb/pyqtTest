@@ -10,7 +10,7 @@ import sys
 from PyQt4 import QtGui
 
 a = QtGui.QApplication(sys.argv)
-label = QtGui.QLabel("Hello Qt!")
+label = QtGui.QLabel("ÄãºÃ£¬ÖÐ¹ú!")
 label.resize(400,200)
 label.show()
 a.exec_()
