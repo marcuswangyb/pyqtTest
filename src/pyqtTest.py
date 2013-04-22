@@ -11,11 +11,11 @@ import sys
 
 '''
 a = QtGui.QApplication(sys.argv)
-label = QtGui.QLabel("��ã��й�!")
+label = QtGui.QLabel("我不知道会不会显示")
 label.resize(400,200)
 label.show()
 a.exec_()
 '''
 
 print "you can't see this"
-print "���!"
+print "我是UTF-8"
