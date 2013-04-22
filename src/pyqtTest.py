@@ -11,10 +11,11 @@ import sys
 
 '''
 a = QtGui.QApplication(sys.argv)
-label = QtGui.QLabel("ÄãºÃ£¬ÖÐ¹ú!")
+label = QtGui.QLabel("ï¿½ï¿½Ã£ï¿½ï¿½Ð¹ï¿½!")
 label.resize(400,200)
 label.show()
 a.exec_()
 '''
 
-print "ÄãºÃ!"
+print "you can't see this"
+print "ï¿½ï¿½ï¿½!"
