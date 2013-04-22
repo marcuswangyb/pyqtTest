@@ -7,10 +7,14 @@ Created on 2013-4-13
 '''
 
 import sys
-from PyQt4 import QtGui
+#from PyQt4 import QtGui
 
+'''
 a = QtGui.QApplication(sys.argv)
 label = QtGui.QLabel("你好，中国!")
 label.resize(400,200)
 label.show()
 a.exec_()
+'''
+
+print "你好!"
